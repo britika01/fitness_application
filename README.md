@@ -1,16 +1,12 @@
 # fitness_app
 
-A new Flutter project.
+## 📄 License  
+This project is licensed under the MIT License, which allows anyone to use, modify, and distribute the code freely while requiring proper attribution.  
 
-## Getting Started
+### Why MIT?  
+We chose the MIT License because:  
+- It provides maximum flexibility for developers to use and modify the project.  
+- It allows both open-source and commercial use without restrictions.  
+- It keeps the project open and encourages contributions from the community.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+See the [LICENSE](LICENSE) file for more details.  
